@@ -1,0 +1,3 @@
+displayName = Stackable Buff Duration Reborn
+author = tieeeeen1994
+version = 0.1
