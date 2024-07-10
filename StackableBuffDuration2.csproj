@@ -10,7 +10,7 @@
 
 	<!-- References -->
 	<ItemGroup>
-		
+	  <None Remove="icon.png" />
 	</ItemGroup>
 
 </Project>
